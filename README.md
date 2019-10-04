@@ -1,5 +1,5 @@
 # soup-recipe
-This is an online, live demo repo demonstrating how many cooks can coloborate on GitHub.
+This is an online, live demo repo demonstrating how many cooks can collaborate on GitHub.
 
 From a basic ingredient list and cooking method, we'll learn how a team can all work on a project collaboratively. Without a hint of command line.
 
